@@ -1,0 +1,48 @@
+header{
+
+    background-color: rgb(192,240,223);
+}
+body{
+
+    background-color: rgb(250,241,234);
+    font-family: 'Roboto', sans-serif;
+}
+
+ul{
+
+    padding: 0px;
+    margin: 0px;
+
+}
+
+li{
+
+    background-color: rgb(128,128,128);
+    padding: 10px;
+    border-top: 1px solid white;
+}
+
+li a{
+
+    color: white;
+    font-weight:700 ;
+    text-decoration: none;
+}
+h2{
+
+    color: rgb(220,106,94);
+}
+
+footer{
+
+    background-color:rgb(128,128,128);
+    color: white;
+    padding: 20px;
+    margin: 20px;
+;
+}
+
+footer h2{
+    color: white;
+
+}
